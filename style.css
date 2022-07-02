@@ -1,1 +1,71 @@
+body {
+    display: flex;
+}
 
+.flex-container {
+    flex-direction: column;
+    justify-content: flex-start;
+    padding-top: ;
+    background: darkslategray;
+}
+
+.headerlogo {
+    
+}
+
+.headerlogotext {
+    align-self: flex-start;
+    padding-top: -5px;
+}
+
+.heroblock {
+    height: px;
+}
+
+.herotext {
+    color: white;
+    flex-wrap: wrap;
+    flex: 1 1 auto;
+}
+
+.subheader {
+    color: white;
+    flex-wrap: wrap;
+}
+
+.signup {
+    border-radius: 6px;
+    background-color: dodgerblue;
+    color: white;
+    flex: 0 0 auto;
+    align-self: flex-start;
+}
+
+.placeholder {
+    
+    flex-direction: row;
+    background: darkslategray;
+    justify-content: center;
+    align-items: center;
+    padding: 60px;
+    padding-left: 0px;
+}
+
+.imgcontainer {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: px;
+    background: darkslategray;
+}
+
+.imgtobe {
+    flex: 0 0 auto;
+    background: gray;
+    color: white;
+    margin: 100px;
+    padding: 64px;
+    height: 10px;
+    width: 250;
+    align-self: center;
+}
