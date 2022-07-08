@@ -2,6 +2,6 @@
 
 Landing Page Project
 
-In this project I will be creating a website that will be a landing page for a business
+In this project I will be demonstrating what I have learned so far with using HTML, CSS, and Flexbox
 
-I will be making use of Flexbox for the first time in setting up the layout for the site
+This is my first attempt using Flexbox to build a full page with multiple sections
